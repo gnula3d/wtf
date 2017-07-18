@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 31ec6f9d8f5384a4caba92e6432a92c2
+timeCreated: 1499721669
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: anexo
+    100002: anexoTejado
+    100004: casetas
+    100006: columna01
+    100008: columna02
+    100010: columna03
+    100012: columna04
+    100014: columna05
+    100016: columna06
+    100018: fachada bajo002
+    100020: fachada bajo003
+    100022: fachada bajo004
+    100024: fachada bajo005
+    100026: fachada007
+    100028: fachadaBajosPuerta002
+    100030: fachadaBajosPuerta01
+    100032: //RootNode
+    100034: Object001
+    100036: Object002
+    100038: Object003
+    100040: Object004
+    100042: Object005
+    100044: Object006
+    100046: Object007
+    100048: Object008
+    100050: PuertaMediana
+    100052: suelo
+    400000: anexo
+    400002: anexoTejado
+    400004: casetas
+    400006: columna01
+    400008: columna02
+    400010: columna03
+    400012: columna04
+    400014: columna05
+    400016: columna06
+    400018: fachada bajo002
+    400020: fachada bajo003
+    400022: fachada bajo004
+    400024: fachada bajo005
+    400026: fachada007
+    400028: fachadaBajosPuerta002
+    400030: fachadaBajosPuerta01
+    400032: //RootNode
+    400034: Object001
+    400036: Object002
+    400038: Object003
+    400040: Object004
+    400042: Object005
+    400044: Object006
+    400046: Object007
+    400048: Object008
+    400050: PuertaMediana
+    400052: suelo
+    2300000: anexo
+    2300002: anexoTejado
+    2300004: casetas
+    2300006: columna01
+    2300008: columna02
+    2300010: columna03
+    2300012: columna04
+    2300014: columna05
+    2300016: columna06
+    2300018: fachada bajo002
+    2300020: fachada bajo003
+    2300022: fachada bajo004
+    2300024: fachada bajo005
+    2300026: fachada007
+    2300028: fachadaBajosPuerta002
+    2300030: fachadaBajosPuerta01
+    2300032: Object001
+    2300034: Object002
+    2300036: Object003
+    2300038: Object004
+    2300040: Object005
+    2300042: Object006
+    2300044: Object007
+    2300046: Object008
+    2300048: PuertaMediana
+    2300050: suelo
+    3300000: anexo
+    3300002: anexoTejado
+    3300004: casetas
+    3300006: columna01
+    3300008: columna02
+    3300010: columna03
+    3300012: columna04
+    3300014: columna05
+    3300016: columna06
+    3300018: fachada bajo002
+    3300020: fachada bajo003
+    3300022: fachada bajo004
+    3300024: fachada bajo005
+    3300026: fachada007
+    3300028: fachadaBajosPuerta002
+    3300030: fachadaBajosPuerta01
+    3300032: Object001
+    3300034: Object002
+    3300036: Object003
+    3300038: Object004
+    3300040: Object005
+    3300042: Object006
+    3300044: Object007
+    3300046: Object008
+    3300048: PuertaMediana
+    3300050: suelo
+    4300000: columna01
+    4300002: anexo
+    4300004: columna02
+    4300006: columna03
+    4300008: columna04
+    4300010: columna05
+    4300012: columna06
+    4300014: casetas
+    4300016: suelo
+    4300018: fachada007
+    4300020: fachadaBajosPuerta01
+    4300022: Object001
+    4300024: Object002
+    4300026: Object003
+    4300028: Object004
+    4300030: Object005
+    4300032: fachada bajo002
+    4300034: Object006
+    4300036: fachada bajo003
+    4300038: Object007
+    4300040: Object008
+    4300042: fachadaBajosPuerta002
+    4300044: fachada bajo004
+    4300046: fachada bajo005
+    4300048: anexoTejado
+    4300050: PuertaMediana
+    6400000: anexo
+    6400002: anexoTejado
+    6400004: casetas
+    6400006: columna01
+    6400008: columna02
+    6400010: columna03
+    6400012: columna04
+    6400014: columna05
+    6400016: columna06
+    6400018: fachada bajo002
+    6400020: fachada bajo003
+    6400022: fachada bajo004
+    6400024: fachada bajo005
+    6400026: fachada007
+    6400028: fachadaBajosPuerta002
+    6400030: fachadaBajosPuerta01
+    6400032: Object001
+    6400034: Object002
+    6400036: Object003
+    6400038: Object004
+    6400040: Object005
+    6400042: Object006
+    6400044: Object007
+    6400046: Object008
+    6400048: PuertaMediana
+    6400050: suelo
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
