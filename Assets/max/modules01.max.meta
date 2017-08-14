@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: dc4ac40f43998954888132dcbebdc2f2
+timeCreated: 1501471057
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: boveda bajo001
+    100002: boveda medio003
+    100004: columna001
+    100006: columna002
+    100008: columna003
+    100010: contrafuerte01
+    100012: contrafuerte02
+    100014: cupula
+    100016: fachada012
+    100018: fachada02
+    100020: fachadaBajos
+    100022: //RootNode
+    100024: muroTunel
+    100026: torreta
+    100028: torreta02
+    100030: torretaAnillo01
+    100032: torretaAnillo02
+    100034: torretaAnillo03
+    100036: torretaAnillo04
+    100038: torretaAnillo05
+    100040: torretaCentro
+    100042: torretas hight
+    100044: Object001
+    100046: reja001
+    100048: bovedaBig
+    100050: Box048
+    100052: fachad centro
+    100054: fachada bajo
+    100056: modulo torre standart
+    100058: PuertaGrande
+    100060: brick
+    100062: moduloTorre
+    100064: window
+    100066: anexo
+    100068: casetas
+    100070: columna06
+    100072: suelo
+    100074: tejado
+    400000: boveda bajo001
+    400002: boveda medio003
+    400004: columna001
+    400006: columna002
+    400008: columna003
+    400010: contrafuerte01
+    400012: contrafuerte02
+    400014: cupula
+    400016: fachada012
+    400018: fachada02
+    400020: fachadaBajos
+    400022: //RootNode
+    400024: muroTunel
+    400026: torreta
+    400028: torreta02
+    400030: torretaAnillo01
+    400032: torretaAnillo02
+    400034: torretaAnillo03
+    400036: torretaAnillo04
+    400038: torretaAnillo05
+    400040: torretaCentro
+    400042: torretas hight
+    400044: Object001
+    400046: reja001
+    400048: bovedaBig
+    400050: Box048
+    400052: fachad centro
+    400054: fachada bajo
+    400056: modulo torre standart
+    400058: PuertaGrande
+    400060: brick
+    400062: moduloTorre
+    400064: window
+    400066: anexo
+    400068: casetas
+    400070: columna06
+    400072: suelo
+    400074: tejado
+    2300000: boveda bajo001
+    2300002: boveda medio003
+    2300004: columna001
+    2300006: columna002
+    2300008: columna003
+    2300010: contrafuerte01
+    2300012: contrafuerte02
+    2300014: cupula
+    2300016: fachada012
+    2300018: fachada02
+    2300020: fachadaBajos
+    2300022: muroTunel
+    2300024: torreta
+    2300026: torreta02
+    2300028: torretaAnillo01
+    2300030: torretaAnillo02
+    2300032: torretaAnillo03
+    2300034: torretaAnillo04
+    2300036: torretaAnillo05
+    2300038: torretaCentro
+    2300040: torretas hight
+    2300042: Object001
+    2300044: reja001
+    2300046: bovedaBig
+    2300048: Box048
+    2300050: fachad centro
+    2300052: fachada bajo
+    2300054: modulo torre standart
+    2300056: PuertaGrande
+    2300058: brick
+    2300060: moduloTorre
+    2300062: window
+    2300064: anexo
+    2300066: casetas
+    2300068: columna06
+    2300070: suelo
+    2300072: tejado
+    3300000: boveda bajo001
+    3300002: boveda medio003
+    3300004: columna001
+    3300006: columna002
+    3300008: columna003
+    3300010: contrafuerte01
+    3300012: contrafuerte02
+    3300014: cupula
+    3300016: fachada012
+    3300018: fachada02
+    3300020: fachadaBajos
+    3300022: muroTunel
+    3300024: torreta
+    3300026: torreta02
+    3300028: torretaAnillo01
+    3300030: torretaAnillo02
+    3300032: torretaAnillo03
+    3300034: torretaAnillo04
+    3300036: torretaAnillo05
+    3300038: torretaCentro
+    3300040: torretas hight
+    3300042: Object001
+    3300044: reja001
+    3300046: bovedaBig
+    3300048: Box048
+    3300050: fachad centro
+    3300052: fachada bajo
+    3300054: modulo torre standart
+    3300056: PuertaGrande
+    3300058: brick
+    3300060: moduloTorre
+    3300062: window
+    3300064: anexo
+    3300066: casetas
+    3300068: columna06
+    3300070: suelo
+    3300072: tejado
+    4300000: torretas hight
+    4300002: fachada02
+    4300004: fachadaBajos
+    4300006: boveda medio003
+    4300008: boveda bajo001
+    4300010: torreta
+    4300012: contrafuerte01
+    4300014: contrafuerte02
+    4300016: muroTunel
+    4300018: cupula
+    4300020: torreta02
+    4300022: torretaCentro
+    4300024: torretaAnillo01
+    4300026: torretaAnillo02
+    4300028: torretaAnillo03
+    4300030: torretaAnillo04
+    4300032: torretaAnillo05
+    4300034: columna001
+    4300036: columna002
+    4300038: columna003
+    4300040: fachada012
+    4300042: Object001
+    4300044: reja001
+    4300046: bovedaBig
+    4300048: fachad centro
+    4300050: fachada bajo
+    4300052: Box048
+    4300054: modulo torre standart
+    4300056: PuertaGrande
+    4300058: moduloTorre
+    4300060: window
+    4300062: brick
+    4300064: anexo
+    4300066: columna06
+    4300068: casetas
+    4300070: suelo
+    4300072: tejado
+    6400000: boveda bajo001
+    6400002: boveda medio003
+    6400004: columna001
+    6400006: columna002
+    6400008: columna003
+    6400010: contrafuerte01
+    6400012: contrafuerte02
+    6400014: cupula
+    6400016: fachada012
+    6400018: fachada02
+    6400020: fachadaBajos
+    6400022: muroTunel
+    6400024: torreta
+    6400026: torreta02
+    6400028: torretaAnillo01
+    6400030: torretaAnillo02
+    6400032: torretaAnillo03
+    6400034: torretaAnillo04
+    6400036: torretaAnillo05
+    6400038: torretaCentro
+    6400040: torretas hight
+    6400042: Object001
+    6400044: reja001
+    6400046: bovedaBig
+    6400048: Box048
+    6400050: fachad centro
+    6400052: fachada bajo
+    6400054: modulo torre standart
+    6400056: PuertaGrande
+    6400058: brick
+    6400060: moduloTorre
+    6400062: window
+    6400064: anexo
+    6400066: casetas
+    6400068: columna06
+    6400070: suelo
+    6400072: tejado
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
